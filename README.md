@@ -1,6 +1,8 @@
 luke
 ====
 
+Luke for lucene 1.4.1 can be found at https://drive.google.com/file/d/0B4GEQ3uQsbhsZVRZa2l2cHAwcjA/view?usp=sharing
+
 ![Luke, the Lucene Toolbox Project](src/main/resources/img/luke-big.gif)
 
 This is mavenised version of Luke tool maintained and further developed by Dmitry Kan (this repo owner).
