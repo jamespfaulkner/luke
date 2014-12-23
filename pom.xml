@@ -112,6 +112,13 @@
             <version>1.7.7</version>
         </dependency>
 
+        <!-- ElasticSearch -->
+        <dependency>
+            <groupId>org.elasticsearch</groupId>
+            <artifactId>elasticsearch</artifactId>
+            <version>1.4.1</version>
+        </dependency>
+
 
     </dependencies>
 
